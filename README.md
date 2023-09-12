@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shreyansh Kumar Jha
 - 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning DSA with Java.
-- <!---💞️ I’m looking to collaborate on ... --->
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me through my email-id shreyanshjha170705@gmail.com
 
 <!---
